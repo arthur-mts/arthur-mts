@@ -10,5 +10,5 @@ Sou Arthur Maurício. Tô aqui no GitHub pra mostrar alguns projetos legais que 
 ## Linguagens e Frameworks do meu 💕
  - NodeJS
  - Java/Kotlin
- - Pandas & Numpy
+ - Python
  - Todas as outras coisas incriveis que estou aprendendo 🎉
