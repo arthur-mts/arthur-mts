@@ -8,8 +8,7 @@ Sou Arthur Maurício. Tô aqui no GitHub pra mostrar alguns projetos legais que 
 - Desenvolvedor 🧑‍💻
 
 ## Linguagens e Frameworks do meu 💕
- - ReactJS
  - NodeJS
- - JavaSpring
+ - Java/Kotlin
  - Pandas & Numpy
  - Todas as outras coisas incriveis que estou aprendendo 🎉
